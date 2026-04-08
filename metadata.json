@@ -1,0 +1,9 @@
+{
+  "name": "National Smart Health Monitoring & Assistance System",
+  "description": "A government-grade AI-powered healthcare ecosystem featuring disease surveillance, outbreak detection, emergency response, and national health analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
